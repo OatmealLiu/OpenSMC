@@ -4,7 +4,7 @@
 
   <h1 align="center"><img src="figures/icon1.png" width="256"></h1>
   <h1 align="center">
-<img src="figures/icon2.png" alt="Logo" style="height: 60px; vertical-align: middle; margin-right: 0px;">
+<img src="figures/icon2.png" alt="Logo" style="height: 50px; vertical-align: middle; margin-right: 5px;">
 Organizing Unstructured Image Collections using Natural Language
 </h1>
   <p align="center">
